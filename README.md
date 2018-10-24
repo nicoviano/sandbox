@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Sandbox
+### Cajón desastre con ejemplos y pequeños proyectos
 
-You can use the [editor on GitHub](https://github.com/nicoviano/sandbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [js-rest-api-simple-request](https://nicoviano.github.io/sandbox/js-rest-api-simple-request/): Web simple que utiliza JavaScript puro para acceder a un API REST pública que proporciona una lista de películas en formato JSON y la muestra en la página web.
 
 ### Markdown
 
